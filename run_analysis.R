@@ -5,7 +5,7 @@
 # Data for project has been extracted from the link https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 # Important - Unzip the data in the working directory. Re-name the folder to 'dataset'.  
 
-# Cleaned data texts are saved in the Output folder inside working directory.
+# Cleaned data texts are saved in the Output folder inside 'dataset' folder.
 
 # RK - 25 October 2014
 
