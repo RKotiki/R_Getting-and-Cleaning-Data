@@ -14,4 +14,4 @@ A short description on the 'Run_analysis.R' script
 - Script geneartes two cleaned data texts which are saved in the 'Output' folder inside the 'dataset' folder.
 
   - a) Tidy_data.txt - Cleaned dataset with 10299*68 dimensions.
-  - b) TidyData_Grouped_Means.txt - Cleaned dataset with 180*68 dimension. The grouping gives the average of each of the        66 variables/features for each activity (6 in number) and each subject (30 in number)
+  - b) TidyData_Grouped_Means.txt - Cleaned dataset with 180*68 dimension. The grouping gives the average of each of the        66 variables/features for each Activity (6 in number) and each Person (30 in number)
